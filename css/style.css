@@ -1,8 +1,9 @@
-#navbar {
-  top: 0;
-  left: 0;
-  width: 250px;
-  height: 100%;
-  border-right: 1px solid;
-  max-width: 300px
+#main-doc {
+    top: 0;
+    left: 0;
+    padding: 8px;
+    border: 1px solid;
+}
+#main-doc header {
+    font-size: 32px;
 }
